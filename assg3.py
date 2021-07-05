@@ -1,0 +1,5 @@
+name = input("Enter name: ")
+name2 = input("Enter name2: ")
+name.lower()
+print(name.lower())
+print(name2.lower())
